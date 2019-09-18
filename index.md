@@ -1,3 +1,14 @@
-Este va a ser nuestro repositorio de software relativo a la programacion de viversos componentes de hidrolimpiadoras automatizadas
-Vamos a ahcer pruebas:
-https://es.wikipedia.org
+
+
+
+
+
+
+
+
+
+
+
+
+Nuevo repositorio de programación para hidrolimpiadoras automatizadas.
+![Image of hidrolimpiadora](https://elite-autolavado.com/wp-content/uploads/2018/05/armario-de-agua-caliente.jpg)
